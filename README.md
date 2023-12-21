@@ -1,5 +1,5 @@
 
-# README.md for Path Planning Simulation
+# LLMs for Path Planning Simulation
 
 ## Overview
 This Python script presents a cutting-edge approach to robotic path planning, where the core innovation lies in its ability to translate high-level, human-like instructions into precise, machine-readable commands for navigation. By leveraging the capabilities of OpenAI's GPT-3.5, a state-of-the-art Large Language Model (LLM), the script bridges the gap between natural language communication and complex robotic control. This integration facilitates dynamic and adaptive path planning in a 2D simulation environment, realized through pygame for visualization and matplotlib for plotting. The script not only simulates path planning using artificial potential fields but also showcases how advanced AI can interpret and execute nuanced human directives in the realm of robotics.
@@ -60,13 +60,3 @@ Below is a screenshot of the simulation in action, demonstrating the user interf
 
 ![Path Planning Screenshot](./Screenshot.png)
 ![Path Planning Video](./MobRob_GPT.mp4)
-
-## Note
-Performance depends on the system's capabilities.
-
-## License
-Include a license here (if applicable).
-
----
-
-*This README provides a detailed overview and setup guide for the path planning simulation script, along with future development ideas. Modify it as necessary to suit your project's needs.*
