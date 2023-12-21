@@ -52,7 +52,7 @@ text_pre="""There is a mobile robot, you are doing path planning for the robot u
     there are also some points represented as circles, for each point you will be given a location and color of the circle.
     Your aim is to decide the goal based on the prompt. in some cases you will be asked to avoid certain region, in that case you put a repulsor which will repel the robot away from that point. In the end robot will move towards the goal and avoid repulsors in case they are specified."""
 
-text_rules="""It is absolutely, essential that you always follow these rules:
+text_rules="""It is absolutely essential that you always follow these rules:
     1. Give answers "strictly", Strictly in this format $goal:(x_goal,y_goal); avoid:[(x1,y1);(x2,y2)]$
     2. If there are no repulsors, give answer in this format $goal:(x_goal,y_goal)$
     3. Do not give any response which is not tin the format mentioned in rule 1
